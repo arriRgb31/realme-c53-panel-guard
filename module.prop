@@ -1,0 +1,6 @@
+id=panel-guard-c53
+name=Panel Guard C53/C50
+version=v1.0
+versionCode=1
+author=user + ox-alpha
+description=Panel pengganti lcd_td4160_cw_old_mipi_hd di Realme C53 RMX3760. CABC off + DPU perf + opsi matikan enhanceHAL (kalibrasi CMS/gamma/ABC pabrik yang bikin pucat di panel pengganti). Refresh rate tetap ikut firmware 100%. Runtime-only, tanpa ubah partisi.

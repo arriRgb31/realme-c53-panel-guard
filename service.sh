@@ -1,6 +1,6 @@
 #!/system/bin/sh
 MODDIR=${0%/*}
-LOG=/data/adb/lcd_max_td4160.log
+LOG=/data/adb/panel_guard.log
 
 DISABLE_CABC=1
 DPU_PERF=1
